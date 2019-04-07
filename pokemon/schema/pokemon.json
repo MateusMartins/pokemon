@@ -1,0 +1,71 @@
+{
+  "name_file": "pokemon",
+  "file_location": "./data/pokemon.csv",
+  "columns": [
+    {
+        "name": "id",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "Name",
+        "column_type": "str",
+        "null": true
+    },
+    {
+        "name": "Type 1",
+        "column_type": "str",
+        "null": true
+    },
+    {
+        "name": "Type 2",
+        "column_type": "str",
+        "null": true
+    },
+    {
+        "name": "Total",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "HP_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "Attack_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "Defense_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "sp_atk_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "sp_def_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "Speed_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "generation_1",
+        "column_type": "float",
+        "null": true
+    },
+    {
+        "name": "Legendary",
+        "column_type": "bool",
+        "null": true
+    }
+  ]
+}

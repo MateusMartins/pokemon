@@ -1,0 +1,211 @@
+{
+    "name_file": "pokemon_det",
+    "file_location": "./data/pokemon_det.csv",
+    "columns": [
+        {
+            "name": "abilities",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "against_bug",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_dark",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_dragon",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_electric",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_fairy",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_fight",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_fire",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_flying",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_ghost",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_grass",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_ground",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_ice",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_normal",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_poison",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_psychic",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_rock",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_steel",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "against_water",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "attack",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "base_egg_steps",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "base_happiness",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "base_total",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "capture_rate",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "classfication",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "defense",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "experience_growth",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "height_m",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "hp",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "japanese_name",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "name",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "percentage_male",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "pokedex_number",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "sp_atk",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "sp_def",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "Speed",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "type_1",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "type_2",
+            "column_type": "str",
+            "null": true
+        },
+        {
+            "name": "weight_kg",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "generation",
+            "column_type": "float",
+            "null": true
+        },
+        {
+            "name": "is_legendary",
+            "column_type": "float",
+            "null": true
+        }
+    ]
+}
